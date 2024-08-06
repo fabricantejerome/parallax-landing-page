@@ -12,13 +12,3 @@ If you get stuck on any lesson in the series, navigate to the course branch for 
 ## Assumptions
 In this series, I’ll assume you have a working knowledge of both Tailwind CSS and JavaScript. If you need help, see the Net Ninja’s introductory series on either topic.
 
-## Helpful Links
-- My YouTube Channel: https://www.youtube.com/c/CodinginPublic
-- Accompanying Free Figma Course: https://youtu.be/2liZ3uvO9bs
-
-## Connect With Me
-- Website: https://codinginpublic.dev
-- Blog: https://chrispennington.blog
-- Twitter: https://twitter.com/cpenned
-- Patreon: https://www.patreon.com/coding_in_public
-
